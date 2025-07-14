@@ -1,0 +1,160 @@
+    1  clear
+    2  sudo apt update
+    3  clear
+    4  sudo apt install git
+    5  sudo get --version git
+    6  sudo get -- version git
+    7  git --version
+    8  clear
+    9  sudo git init
+   10  clear
+   11  git --version
+   12  clar
+   13  clear
+   14  touch file..txt
+   15  ls
+   16  sudo ls -lh
+   17  ls -ltr
+   18  clear
+   19  git --version
+   20  ls
+   21  clear
+   22  git --version
+   23  clear
+   24  git init
+   25  sudo apt install
+   26  sudo apt update
+   27  clear
+   28  sudo apt install git 
+   29  git --version
+   30  nginx --version
+   31  ubuntu --version
+   32  clear
+   33  os --version
+   34  clear
+   35  git  init
+   36  git config --global user.name "nik7712"
+   37  git config --global user.email "nikhilwalke1993@gmail.com"
+   38  git init
+   39  git --version
+   40  ls -ld
+   41  sudo git config --global user.name "nik7712"
+   42  sudo git config --global user.email "nikhilwalke1993@gmail.com"
+   43  git config --global --list
+   44  clear
+   45  mkdir my-project
+   46  cd my-project/
+   47  mkdir git-github
+   48  cd git-github
+   49  git init
+   50  ls -a 
+   51  git config --global init.defaultBranch main
+   52  git branch -m main
+   53  git branch
+   54  sudo git branch
+   55  echo "# My First Git Commit" > README.md
+   56  git add README.md
+   57  git commit -m "Initial commit"
+   58  git status
+   59  ls
+   60  git status
+   61  python --version
+   62  python3 --version
+   63  vim testing.py
+   64  ls
+   65  git status
+   66  git add testing.py
+   67  git status
+   68  git restore --staged testing.py
+   69  git status
+   70  git add .
+   71  git ststus
+   72  git status
+   73  git commit -m "adding testing files"
+   74  git status
+   75  rm testing.py
+   76  ls
+   77  git restore testing.py
+   78  ls
+   79  ls -a
+   80  git clone https://github.com/nik7712/sample-project.git
+   81  cd sample-project
+   82  ls
+   83  git clone https://github.com/nik7712/sample-project.git
+   84  ls
+   85  cd..
+   86  cd ..
+   87  ls
+   88  sudo mv testing.py ~/my-project/git-github/sample-project
+   89  cd sample-project
+   90  ls
+   91  git status
+   92  git add testing.py
+   93  git status
+   94  git commit -m "adding testing files"
+   95  clear
+   96  git status
+   97  clear
+   98  ls
+   99  rm testing.py
+  100  ls
+  101  git restore testing.py
+  102  ls
+  103  git checkout testing.py
+  104  git status
+  105  clear
+  106  git branch
+  107  cd clear
+  108  clear
+  109  cd /
+  110  cd home/ubuntu/
+  111  ls
+  112  cd my-project
+  113  ls
+  114  cd git-github
+  115  ls
+  116  cd sample-project
+  117  ls
+  118  git branch
+  119  git branch -r
+  120  history
+  121  touch git-cmd.txt
+  122  ls
+  123  history > git-cmd.txt
+  124  cat git-cmd.txt
+  125  clear
+  126  git status
+  127  git add git-cmd.txt
+  128  git status
+  129  git commit -m "adding git cmd"
+  130  git status
+  131  git push origin master
+  132  git push origin main
+  133  sudo shutdown -h now
+  134  cls
+  135  clear
+  136  ls
+  137  cd my-project
+  138  clear
+  139  cd my-project
+  140  ls
+  141  git status
+  142  git commit demo.py
+  143  python3 demo.py
+  144  git commit demo.py
+  145  git commit -m "adding demo python files"
+  146  clear
+  147  git commit -m "adding demo python files"
+  148  history
+  149  clear
+  150  rm demo.py
+  151  ls
+  152  git restore demo.py
+  153  ls
+  154  git commit -m "adding demo file"
+  155  git rm --cached demo.py
+  156  git status
+  157  git commit -m "adding demo file"
+  158  clear
+  159  history
+  160  history > git-cmd.txt
